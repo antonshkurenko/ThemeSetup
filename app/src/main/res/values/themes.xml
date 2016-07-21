@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <style name="Theme.Material_Light" parent="Theme.AppCompat.Light">
+    <item name="pageBackground">@style/page_background_wh</item>
+    <item name="textSubheader">@style/text_subheader_wh</item>
+    <item name="textLarge">@style/text_large_wh</item>
+    <item name="textRegular">@style/text_regular_wh</item>
+    <item name="whiteBackground">@style/white_background_wh</item>
+    <item name="button">@style/button_wh</item>
+    <item name="spinner">@style/spinner_wh</item>
+    <item name="actionBarStyle">@style/action_bar_wh</item>
+  </style>
+
+  <style name="Theme.FirstCoolTheme" parent="Theme.AppCompat.Light">
+    <item name="pageBackground">@style/page_background_cool</item>
+    <item name="textSubheader">@style/text_subheader_cool</item>
+    <item name="textLarge">@style/text_large_cool</item>
+    <item name="textRegular">@style/text_regular_cool</item>
+    <item name="whiteBackground">@style/white_background_cool</item>
+    <item name="button">@style/button_cool</item>
+    <item name="spinner">@style/spinner_cool</item>
+    <item name="actionBarStyle">@style/action_bar_cool</item>
+  </style>
+
+</resources>
